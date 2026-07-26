@@ -1,58 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://futuretechai.cloud/</loc>
-    <lastmod>2026-04-20</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://futuretechai.online/</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
-
-  <!-- Qasim Shaikh Photo Page (helps image indexing) -->
+  <!-- Qasim Photo -->
   <url>
-    <loc>https://futuretechai.cloud/qasim.jpg</loc>
-    <lastmod>2026-04-20</lastmod>
+    <loc>https://futuretechai.online/qasim.jpg</loc>
+    <lastmod>2026-07-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.60</priority>
   </url>
-
   <!-- Blog Posts -->
   <url>
-    <loc>https://futuretechai.cloud/blog/digital-marketing-yavatmal-district</loc>
-    <lastmod>2026-04-20</lastmod>
+    <loc>https://futuretechai.online/blog/digital-marketing-yavatmal-district.html</loc>
+    <lastmod>2026-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://futuretechai.cloud/blog/about-qasim-shaikh</loc>
-    <lastmod>2026-04-20</lastmod>
+    <loc>https://futuretechai.online/blog/automate-indiamart-whatsapp-leads.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://futuretechai.online/blog/yavatmal-local-shops-ai-marketing.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://futuretechai.online/blog/social-media-marketing-yavatmal.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://futuretechai.online/blog/about-qasim-shaikh.html</loc>
+    <lastmod>2026-07-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
-
   <url>
-    <loc>https://futuretechai.cloud/blog/best-digital-marketing-agency-yavatmal</loc>
-    <lastmod>2026-04-20</lastmod>
+    <loc>https://futuretechai.online/blog/best-digital-marketing-agency-yavatmal.html</loc>
+    <lastmod>2026-07-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://futuretechai.cloud/blog/ai-marketing-yavatmal</loc>
-    <lastmod>2026-04-20</lastmod>
+    <loc>https://futuretechai.online/blog/ai-marketing-yavatmal.html</loc>
+    <lastmod>2026-07-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://futuretechai.cloud/blog/seo-services-yavatmal</loc>
-    <lastmod>2026-04-20</lastmod>
+    <loc>https://futuretechai.online/blog/seo-services-yavatmal.html</loc>
+    <lastmod>2026-07-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
-
 </urlset>
